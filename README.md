@@ -58,6 +58,8 @@ Posting frequency trends can be observed over time.
 ## 📄 License  
 This project is licensed under the MIT License.
 
-👤 Author: Ramzan Asif
-🔗 GitHub: github.com/Ramzan-Asif/Job-Scraper-Project/
-🤝 Special Thanks: Elevvo Pathways
+---
+
+👤 Author: Ramzan Asif  
+🔗 GitHub: github.com/Ramzan-Asif/Job-Scraper-Project/  
+🤝 Special Thanks: Elevvo Pathways  
